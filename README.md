@@ -1,3 +1,3 @@
-# YouTube Data Analysis using REST APIs
+# YouTube Data Analysis using APIs
 
 In this project we are analyzing the data of youtube using the help of APIs. Data is analyzed based on various parameters like detect trends on content consumption using the time watched, demographic and engagement metrics like likes and comments. This can guide decisions on creators’ part, advertisers and even the platform. Knowing what works with audiences and how they watch TV differently across different populations helps creators create successful content. Advertisers can use this information to target specific demographics while YouTube may boost recommendations and promote content that retains users.
